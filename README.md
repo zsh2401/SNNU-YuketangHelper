@@ -1,4 +1,4 @@
-# yuketangHelper
+# YuketangHelper 陕西师范大学版
 ## 研究生雨课堂网课脚本代码
 homeworkHelper.py是雨课堂网课作业刷题自动脚本  
 SingleVideoHelper.py是长江雨课堂版的视频观看脚本  
